@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "我的书单!"
-date:   2020-07-20 21:30:57 +0800
-categories: post
+layout: page
+title: 我的书单
+permalink: /booklist/
 ---
 读书欲精不欲博，用心欲专不欲杂。
 

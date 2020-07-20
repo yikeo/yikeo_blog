@@ -55,3 +55,6 @@ timezone: Asia/Shanghai
 encoding: utf-8
 minima:
   date_format: "%Y/%m/%d %H:%M"
+header_pages:
+  - booklist.markdown
+  - about.markdown
