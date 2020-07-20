@@ -21,10 +21,9 @@
 title: 我是一只鹰
 email: wujing0510@live.com
 description: >- # this means to ignore newlines until "baseurl:"
-  男人很贱，不管怎样都忘不了初恋，我的初恋是一只鹰。
+  男人很贱，不管怎样都忘不了初恋。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  yikeo
 
 # Build settings
